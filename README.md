@@ -16,7 +16,7 @@ The project was completed using Python in Colab with Pandas, Numpy and Matplotli
 
 ## Files Included
 - almarazflores_sales_analysis.ipynb
-- Products(1).csv
+- Products.csv
 - ProductCategories.csx
 - StoreDetail.csv
 - StoreSales.csv
@@ -34,3 +34,5 @@ The project was completed using Python in Colab with Pandas, Numpy and Matplotli
 - Texas
 
 ## Video Presentation
+https://drive.google.com/file/d/1Zw3umkuMbe7QydB7w0B-DKq-l0ydaBnW/view?usp=drive_link
+
